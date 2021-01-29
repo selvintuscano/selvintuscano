@@ -31,7 +31,7 @@ Software Engineer, having keen interest in Data Visualization and Web Devleopmen
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selvintuscano&theme=algolia&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=selvintuscano&theme=algolia&show_icons=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=selvintuscano&theme=algolia&align=center&show_icons=true) 
 
 
 
@@ -39,6 +39,7 @@ Software Engineer, having keen interest in Data Visualization and Web Devleopmen
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=selvintuscano&repo=selvintuscano.github.io&layout=compact&theme=algolia" />
 </a>
+
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=selvintuscano&theme=algolia&show_icons=true)  
