@@ -31,23 +31,17 @@ Software Engineer, having keen interest in Data Visualization and Web Devleopmen
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selvintuscano&theme=algolia&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=selvintuscano&theme=algolia&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=selvintuscano&theme=algolia&show_icons=true) 
+
+<a href="https://github.com/anuraghazra/selvintuscano.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=selvintuscano&repo=selvintuscano.github.io&theme=algolia" />
+</a>
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=selvintuscano&theme=algolia&show_icons=true)  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=selvintuscano&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=selvintuscano&show_icons=true&include_all_commits=true&theme=algolia" alt="Selvin's github stats" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=selvintuscano&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-<a href="https://github.com/anuraghazra/selvintuscano.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=selvintuscano&repo=selvintuscano.github.io&theme=material-palenight" />
-</a>
 
