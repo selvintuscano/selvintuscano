@@ -32,4 +32,5 @@ Software Engineer, having keen interest in Data Visualization and Web Devleopmen
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=selvintuscano&theme=algolia&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/selvintuscano&theme=algolia&show_icons=true)  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=selvintuscano)](https://github.com/anuraghazra/github-readme-stats)
