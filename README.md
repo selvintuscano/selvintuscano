@@ -35,7 +35,7 @@ Software Engineer, having keen interest in Data Visualization and Web Devleopmen
 
 
 
-<a href="https://github.com/selvintuscano.github.io">
+<a href="https://selvintuscano.github.io/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=selvintuscano&repo=selvintuscano.github.io&layout=compact&theme=algolia" />
 </a>
