@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Selvin
 
-Software Engineer, having keen interest in Data Visualization and Web Devleopment field. Always eager to learn more from everyone I work with so as to increase my exposure. Willing to take any kind of challenges that will help me grow and widen my horizons. Love travelling, Painting etc. - "Let us build a better world together" is what i believe.
+I am a Software Engineer, having keen interest in Data Visualization and Web Devleopment field. Always eager to learn more from everyone I work with so as to increase my exposure. Willing to take any kind of challenges that will help me grow and widen my horizons. Love travelling, Painting etc. - "Let us build a better world together" is what i believe.
 
 <p>
 <a href="https://selvintuscano.github.io/" target="_blank">
