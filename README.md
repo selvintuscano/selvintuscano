@@ -21,6 +21,9 @@ Software Engineer, having keen interest in Data Visualization and Web Devleopmen
 - 🔭 I’m currently working on Data Visualization  
 - 🌱 I’m currently learning Tableau 
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=selvintuscano" alt="Selvintuscano" /> </p>
+
  
 
 
