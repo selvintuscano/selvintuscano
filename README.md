@@ -33,6 +33,8 @@ Software Engineer, having keen interest in Data Visualization and Web Devleopmen
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=selvintuscano&theme=algolia&show_icons=true) 
 
+
+
 <a href="https://github.com/anuraghazra/selvintuscano.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=selvintuscano&repo=selvintuscano.github.io&theme=algolia" />
@@ -40,8 +42,6 @@ Software Engineer, having keen interest in Data Visualization and Web Devleopmen
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=selvintuscano&theme=algolia&show_icons=true)  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=selvintuscano&show_icons=true&include_all_commits=true&theme=algolia" alt="Selvin's github stats" />
-</a>
+
 
 
