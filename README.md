@@ -5,10 +5,10 @@ I'm a graduate student at Northeastern University, pursuing a Master of Science 
 
 ## About Me
 
-Always eager to learn and grow, I believe in building a better world together. I am passionate about data visualization and actively working on projects in this field.
+Driven by the desire to learn and contribute. My current focus is on honing my skills in machine learning and acquiring the essential statistical knowledge required for effective machine learning applications.
 
-- 🌱 Currently learning Tableau.
-- 🔭 Working on Data Visualization projects.
+- 🌱 Currently immersed in the world of machine learning.
+- 🔭 Actively working on data visualization projects.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selvintuscano" alt="Selvintuscano" /> </p>
 
