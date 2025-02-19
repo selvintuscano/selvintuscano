@@ -15,7 +15,7 @@
 ✅ **Creating interactive dashboards** for business intelligence  
 ✅ **Leveraging cloud technologies** to streamline data processing  
 
-💡 Currently **exploring Generative AI, LLMs, and cloud-based analytics** to enhance business intelligence solutions.
+💡 Currently **exploring Generative AI, LLMs, and cloud-based analytics**.
 
 ---
 
@@ -42,13 +42,9 @@
 
 ### **📊 Statistics & Analytics**
 ![Descriptive Statistics](https://img.shields.io/badge/Descriptive%20Statistics-336699?style=for-the-badge&logo=python&logoColor=white)  
-✅ Mean, Median, Mode, Variance, Standard Deviation  
-
-![Inferential Statistics](https://img.shields.io/badge/Inferential%20Statistics-FF4500?style=for-the-badge&logo=bar-chart&logoColor=white)  
-✅ Hypothesis Testing, Confidence Intervals, Regression Analysis  
-
+![Inferential Statistics](https://img.shields.io/badge/Inferential%20Statistics-FF4500?style=for-the-badge&logo=bar-chart&logoColor=white)   
 ![Probability & Modeling](https://img.shields.io/badge/Probability%20Distributions-008080?style=for-the-badge&logo=probability&logoColor=white)  
-✅ Probability Distributions, Statistical Modeling  
+
 
 ### **⚙️ Data Engineering & ETL**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -62,12 +58,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=selvintuscano&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
-  <img src="https://streak-stats.demolab.com?user=selvintuscano&theme=radical&hide_border=true" width="48%" alt="GitHub Streak">
-</p>
 
 ### 🚀 GitHub Profile Views  
 <p align="center">
