@@ -15,7 +15,7 @@
 ✅ **Creating interactive dashboards** for business intelligence  
 ✅ **Leveraging cloud technologies** to streamline data processing  
 
-💡 Currently **exploring Generative AI, LLMs, and cloud-based analytics**.
+💡 Currently **exploring Generative AI, LLMs, and cloud-based analytics** to enhance business intelligence solutions.
 
 ---
 
@@ -41,9 +41,14 @@
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-007ACC?style=for-the-badge&logo=openai&logoColor=white)
 
 ### **📊 Statistics & Analytics**
-✅ Descriptive Statistics  
-✅ Inferential Statistics  
-✅ Probability Distributions & Statistical Modeling  
+![Descriptive Statistics](https://img.shields.io/badge/Descriptive%20Statistics-336699?style=for-the-badge&logo=python&logoColor=white)  
+✅ Mean, Median, Mode, Variance, Standard Deviation  
+
+![Inferential Statistics](https://img.shields.io/badge/Inferential%20Statistics-FF4500?style=for-the-badge&logo=bar-chart&logoColor=white)  
+✅ Hypothesis Testing, Confidence Intervals, Regression Analysis  
+
+![Probability & Modeling](https://img.shields.io/badge/Probability%20Distributions-008080?style=for-the-badge&logo=probability&logoColor=white)  
+✅ Probability Distributions, Statistical Modeling  
 
 ### **⚙️ Data Engineering & ETL**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
