@@ -15,7 +15,7 @@
 ✅ **Creating interactive dashboards** for business intelligence  
 ✅ **Leveraging cloud technologies** to streamline data processing  
 
-💡 Currently **exploring Generative AI, LLMs, and cloud-based analytics** to enhance business intelligence solutions.
+💡 Currently **exploring Generative AI, LLMs, and cloud-based analytics**.
 
 ---
 
@@ -28,6 +28,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Alteryx](https://img.shields.io/badge/Alteryx-0178B5?style=for-the-badge&logo=alteryx&logoColor=white)
+![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### **📈 Data Science & Machine Learning**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -35,12 +36,18 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-008080?style=for-the-badge&logo=nlp&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-007ACC?style=for-the-badge&logo=openai&logoColor=white)
+
+### **📊 Statistics & Analytics**
+✅ Descriptive Statistics  
+✅ Inferential Statistics  
+✅ Probability Distributions & Statistical Modeling  
 
 ### **⚙️ Data Engineering & ETL**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Talend](https://img.shields.io/badge/Talend-FF6F00?style=for-the-badge&logo=talend&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![DBT](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 ### **🛠️ DevOps & Workflow Automation**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -55,6 +62,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=selvintuscano&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
   <img src="https://streak-stats.demolab.com?user=selvintuscano&theme=radical&hide_border=true" width="48%" alt="GitHub Streak">
+</p>
+
+### 🚀 GitHub Profile Views  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=selvintuscano&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views">
 </p>
 
 ---
