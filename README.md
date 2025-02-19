@@ -1,45 +1,82 @@
+<h1 align="center">👋 Hi there! I'm Selvin Tuscano</h1>
 
-# Hi there! 👋 I'm Selvin.
+<p align="center">
+  🎯 <b>Data Analyst | Data Scientist | Data Engineer</b> <br>
+  🔍 Passionate about <b>data-driven decision-making, predictive analytics, and scalable data solutions</b> <br>
+  📊 Expertise in <b>SQL, Python, Machine Learning, Cloud Technologies, and Data Engineering</b>
+</p>
 
-I'm a graduate student at Northeastern University, pursuing a Master of Science in Information Systems with a focus on data science, data analysis, and business intelligence. I aspire to be a skilled data analyst, data scientist, and business intelligence developer.
+---
 
-## About Me
+## 📌 About Me  
+🚀 I specialize in **transforming raw data into meaningful insights** that drive business growth. With a background in **data science, analytics, and engineering**, I focus on:  
+✅ **Building scalable ETL pipelines** and optimizing data workflows  
+✅ **Developing AI-driven analytics** and predictive models  
+✅ **Creating interactive dashboards** for business intelligence  
+✅ **Leveraging cloud technologies** to streamline data processing  
 
-Driven by the desire to learn and contribute. My current focus is on honing my skills in machine learning and acquiring the essential statistical knowledge required for effective machine learning applications.
+💡 Currently **exploring Generative AI, LLMs, and cloud-based analytics** to enhance business intelligence solutions.
 
-- 🌱 Currently immersed in the world of machine learning.
-- 🔭 Actively working on data visualization projects.
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=selvintuscano" alt="Selvintuscano" /> </p>
+## 🛠️ Technical Skills  
 
-## Connect with Me
+### **📊 Data & Business Intelligence**
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Alteryx](https://img.shields.io/badge/Alteryx-0178B5?style=for-the-badge&logo=alteryx&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/) 
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:tuscasel@gmail.com)
+### **📈 Data Science & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-## Skills
+### **⚙️ Data Engineering & ETL**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Talend](https://img.shields.io/badge/Talend-FF6F00?style=for-the-badge&logo=talend&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![DBT](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
-Here are some of my skills:
+### **🛠️ DevOps & Workflow Automation**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Numpy](https://img.shields.io/badge/Numpy-orange?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-yellow?style=for-the-badge&logo=pandas)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-![Data Science](https://img.shields.io/badge/Data%20Science-purple?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
-![Database](https://img.shields.io/badge/Database-lightblue?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-darkblue?style=for-the-badge&logo=sql)
-![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau)
-![Statistics](https://img.shields.io/badge/Statistics-lightgreen?style=for-the-badge)
-![MS Excel](https://img.shields.io/badge/MS%20Excel-yellowgreen?style=for-the-badge&logo=microsoft-excel)
-![Power BI](https://img.shields.io/badge/Power%20BI-orange?style=for-the-badge&logo=power-bi)
+---
 
-## GitHub Stats
+## 📊 GitHub Stats  
 
-![Selvintuscano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=selvintuscano&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=selvintuscano&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
+  <img src="https://streak-stats.demolab.com?user=selvintuscano&theme=radical&hide_border=true" width="48%" alt="GitHub Streak">
+</p>
 
+---
 
-  
+## 📫 Connect with Me  
 
+<p align="center">
+  <a href="https://linkedin.com/in/selvintuscano">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:tuscasel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Tableau-FF6F00?style=for-the-badge&logo=tableau&logoColor=white">
+  </a>
+  <a href="https://github.com/selvintuscano">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
+---
 
+🎯 **Open to Data Analyst, Data Scientist, and Data Engineer roles!**  
+Let's connect and collaborate! 😊  
