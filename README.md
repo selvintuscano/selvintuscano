@@ -4,8 +4,6 @@
 
 Passionate about solving real-world problems using data. I enjoy transforming raw data into insights, building scalable data pipelines, and deploying machine learning models that drive business impact.
 
----
-
 ## 📌 About Me
 
 - 🔍 Specialize in **data analysis**, **ML modeling**, and **ETL pipeline development**
@@ -13,7 +11,6 @@ Passionate about solving real-world problems using data. I enjoy transforming ra
 - ☁️ Experienced with **cloud platforms** (AWS) and **data engineering tools**
 - 🤖 Exploring **Generative AI**, **LLMs**, and advanced analytics
 
----
 
 ## 🧰 Technical Skills
 
@@ -33,7 +30,6 @@ Passionate about solving real-world problems using data. I enjoy transforming ra
 ### **DevOps & Workflow**
 - Git, Jenkins, JIRA, Linux
 
----
 
 ## 📊 Profile Views
 
@@ -41,15 +37,12 @@ Passionate about solving real-world problems using data. I enjoy transforming ra
   <img src="https://komarev.com/ghpvc/?username=selvintuscano&label=Profile%20Views&color=0e75b6&style=flat" alt="selvintuscano" />
 </p>
 
----
-
 ## 📫 Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/selvintuscano)
 - [Email](mailto:tuscasel@gmail.com)
 - [GitHub](https://github.com/selvintuscano)
 
----
 
 🎯 **Open to roles** in Data Analysis, Data Science, and Data Engineering.  
 Let’s connect and create value through data!
