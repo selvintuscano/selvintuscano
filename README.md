@@ -52,10 +52,6 @@ Passionate about solving real-world problems using data. I enjoy transforming ra
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)  
 
 
-### 🤖 AI & Machine Learning  
-A/B Testing · Predictive Modeling · Statistical Analysis · Large Language Models (LLMs) · Generative AI · Prompt Engineering · NLP · Computer Vision · Reinforcement Learning · Transformer Architectures · Model Optimization  
-
-
 ### 📊 Business Intelligence & Automation  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black) 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) 
@@ -72,6 +68,9 @@ A/B Testing · Predictive Modeling · Statistical Analysis · Large Language Mod
 ![Pig](https://img.shields.io/badge/Pig-FF6600?logo=apachepig&logoColor=white) 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white) 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)  
+
+### 🤖 AI & Machine Learning  
+A/B Testing · Predictive Modeling · Statistical Analysis · Large Language Models (LLMs) · Generative AI · Prompt Engineering · NLP · Computer Vision · Reinforcement Learning · Transformer Architectures · Model Optimization  
 
 
 ## 📊 Profile Views
